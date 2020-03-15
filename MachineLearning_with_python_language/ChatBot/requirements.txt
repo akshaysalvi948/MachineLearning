@@ -1,0 +1,6 @@
+nltk
+numpy
+random
+string    
+import sklearn.feature_extraction.text
+import sklearn.metrics.pairwise 

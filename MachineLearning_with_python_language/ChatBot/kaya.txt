@@ -1,0 +1,27 @@
+KayaDev is a Bangalore based company that aims to provide fresh & efficient solutions
+using cutting-edge technology, reliable processes and leverage emergent software
+architecture. Founded by two Oregon State University graduates, Arul Dhamodaran and
+Sibi Kabilan aim to establish a company that is at the forefront of innovation and
+technology - enabling KayaDev and its clients to be revolutionary in the global arena. 
+KayaDev and its diligent development team ache to offer our clients a complete range
+of custom automation and data analytics services and work alongside them to develop
+innovative, efficient and affordable solutions that meet the most stringent performance
+requirements by deploying cutting-edge technologies.
+Our development team is trained in cutting-edge technologies and boast extended
+experience that helps Businesses create and use automated solutions that increases
+their performance, efficiency and also take their processes to next level.
+Our management team is built from solid experience as engineers for tech giants such
+as Intel, HP, LG and more. Combined with our management and development team, we
+ensure a crisp grasp of your business requirements combined with proper execution of the engineering designs.
+We are a young, modern and efficiency-focused company that will leverage
+emergent technologies to provide innovative, cutting-edge and affordable solutions.
+We are your best bet for Business Automation, Data Analytics, and Big Data.
+Client confidentiality is part of our prime directive, confidentiality clauses are
+included as part of all our software development contracts. 
+Address 34, 6th Main, Banaswadi Main Road, Banaswadi, Bangalore - 560043.
+Contact Us KayaDev@gmail.com, 99##99##00.
+Skills Technologies working On Python, Postgresql, Flask, Docker.
+As a programming enthusiast at the core, Sibi is the brains behind the tech operations at KayaDev. 
+A graduate of Oregon State University (USA), Sibi strived to start a Data Science firm that would be at the forefront of technology and leverage emergent paradigms. 
+KayaDev is the culmination of Sibi’s passion for Data Science and immense motivation to start a firm that would set itself apart from competitors."
+Sibi is Data Scientist and a Software architecture.He is a Movie Buff and Football Lover .
